@@ -1,7 +1,7 @@
-STM32F0 Eagle CAD Library
+STM32F050 Eagle CAD Library
 =========================
 
-This is an [Eagle CAD](http://www.cadsoftusa.com) library for STMicroelectronics [STM32F050 microcontrollers](http://www.st.com/internet/mcu/subclass/1244.jsp)
+This is an [Eagle CAD](http://www.cadsoftusa.com) library for STMicroelectronics [STM32F050 microcontrollers](http://www.st.com/web/en/catalog/mmc/FM141/SC1169/SS1574/LN1447)
 
 Available packages:
 
